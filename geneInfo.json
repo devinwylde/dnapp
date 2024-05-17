@@ -1,0 +1,44 @@
+{
+    "APOE": {
+        "function": "Cholesterol Metabolism, Alzheimers",
+        "nick":"Lipid Uber",
+        "links": [
+            
+        ],
+        "types": {
+            "4/4": {
+                "bene_rating": 0,
+                "summary": "Associated with increased risk of coronary artery disease, ischemic stroke, and a significantly increased risk for Alzheimers disease"
+            },
+            "3/4": {
+                "bene_rating": 1,
+                "summary": "Associated with moderately increased risk of coronary artery disease and ischemic stroke and increased risk for Alzheimers disease"
+            },
+            "2/4": {
+                "bene_rating": 2,
+                "summary": "This genotype is very rare. However, of the few studies that have evaluated this genotype, it appears that the 2 allele mitigates any risk associated with the 4 allele. Therefore, this genotype is generally considered safe/protective and treat like a 3/3 variant"
+            },
+            "3/3": {
+                "bene_rating": 2,
+                "summary": "This genotype is the most common with no increased risk of coronary artery disease and ischemic stroke",
+                "labs_to_consider": null,
+                "mood": null,
+                "immunity": null,
+                "cardiovascular": null,
+                "diet": null,
+                "sleep": null,
+                "hormone": null,
+                "longevity": null,
+                "ITS": null
+            },
+            "2/3": {
+                "bene_rating": 2,
+                "summary": "This genotype is associated with optimal lipid metabolism and optimal total and LDL-cholesterol levels"
+            },
+            "2/2": {
+                "bene_rating": 1,
+                "summary": "APOE2/2 is associated with delayed clearance of hepatic and intestinal remnant lipoproteins (chylomicrons) and is necessary for the development of type III hyperlipoproteinemia (HLP).\n\nHLP can be precipitated by other factors including estrogen deficiency, hypothyroidism, obesity and diabetes."
+            }
+        }
+    }
+}
